@@ -1,1 +1,1 @@
-alert('padding blah blah');
+alert('blah blah');
